@@ -1,0 +1,9 @@
+[submodule "lab-09-s20488"]
+	path = lab-09-s20488
+	url = https://github.com/s20488/JAZ.git
+[submodule "lab-10-s20488"]
+	path = lab-10-s20488
+	url = https://github.com/PJATK-AU/lab-10-s20488.git
+[submodule "lab-11-s20488"]
+	path = lab-11-s20488
+	url = https://github.com/PJATK-AU/lab-11-s20488.git

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/westeros.iml" filepath="$PROJECT_DIR$/westeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-data/westeros-data.iml" filepath="$PROJECT_DIR$/westeros-data/westeros-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-diagnostics-service/westeros-diagnostics-service.iml" filepath="$PROJECT_DIR$/westeros-diagnostics-service/westeros-diagnostics-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-diagnostics-tools/westeros-diagnostics-tools.iml" filepath="$PROJECT_DIR$/westeros-diagnostics-tools/westeros-diagnostics-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-movies-client/westeros-movies-client.iml" filepath="$PROJECT_DIR$/westeros-movies-client/westeros-movies-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-movies-updater/westeros-movies-updater.iml" filepath="$PROJECT_DIR$/westeros-movies-updater/westeros-movies-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-tools/westeros-tools.iml" filepath="$PROJECT_DIR$/westeros-tools/westeros-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/westeros-web-api/westeros-web-api.iml" filepath="$PROJECT_DIR$/westeros-web-api/westeros-web-api.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/westeros-movies-client/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-data/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-movies-updater/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-web-api/pom.xml" />
+        <option value="$PROJECT_DIR$/diagnostics-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-diagnostics-service/pom.xml" />
+        <option value="$PROJECT_DIR$/westeros-diagnostics-tools/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

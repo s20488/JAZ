@@ -1,0 +1,11 @@
+drop table if exists actor cascade ;
+drop table if exists character_role cascade ;
+drop table if exists company cascade ;
+drop table if exists company_movies cascade ;
+drop table if exists country cascade ;
+drop table if exists country_movies cascade ;
+drop table if exists genre cascade ;
+drop table if exists genre_movies cascade ;
+drop table if exists movie cascade ;
+drop table if exists spoken_language cascade ;
+drop table if exists spoken_language_movies cascade ;

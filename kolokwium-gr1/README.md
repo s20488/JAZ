@@ -24,3 +24,5 @@ Użyj metod GET, POST, PUT i DELETE za pośrednictwem (na przykład) Postman do 
 }
 ```
 ![chrome_E4x1jeoRH9](https://github.com/s20488/JAZ/assets/56721899/1df04645-e919-46c0-aeb7-0a600ba6e830)
+
+P.S. Mapa projektu znajduje się w pliku kolokwium - gr3.pdf (projekt nie zawiera implementacji updaters)

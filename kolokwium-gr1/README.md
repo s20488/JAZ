@@ -23,4 +23,4 @@ Użyj metod GET, POST, PUT i DELETE za pośrednictwem (na przykład) Postman do 
     "last_Name": "Bret"
 }
 ```
-![chrome_Np0Lo7cqon](https://github.com/s20488/JAZ/assets/56721899/15dc5388-31b5-4c9b-9f5b-69fc1f105a62)
+![chrome_E4x1jeoRH9](https://github.com/s20488/JAZ/assets/56721899/1df04645-e919-46c0-aeb7-0a600ba6e830)

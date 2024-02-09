@@ -13,5 +13,11 @@ public class EmploymentDto {
     @JsonProperty("title")
     private String title;
     @JsonProperty("key_skills")
-    private String keySkills;
+    private String key_skills;
+
+    public EmploymentDto(Integer id, String title, String key_skills) {
+        this.id = id;
+        this.title = title;
+        this.key_skills = key_skills;
+    }
 }

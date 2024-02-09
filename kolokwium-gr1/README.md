@@ -3,7 +3,7 @@
 ## Instrukcja uruchomienia (via IntelliJ)
 
 ### 1. Skonfiguruj bazę danych
-Database -> New -> Data Source -> HSQLDB
+**Database -> New -> Data Source -> HSQLDB**
 ![idea64_dyiuNBQayK](https://github.com/s20488/JAZ/assets/56721899/629a8778-2ddf-481c-b037-a2cb82aaee10)
 
 ### 2. Uruchom lokalną bazę danych

@@ -1,6 +1,6 @@
 # JAZ2023_k2_1
 
-## Instrukcja uruchomienia (via IntelliJ)
+## Instrukcja uruchomienia (via IntelliJ IDEA)
 
 ### 1. Skonfiguruj bazę danych
 **Database -> New -> Data Source -> HSQLDB**
